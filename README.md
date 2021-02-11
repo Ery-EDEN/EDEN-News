@@ -48,16 +48,16 @@ ________________________________________________________________________________
                     - created_at ⏲️
             
 ____________________________________________________________________________________________________________
-                                                                                                            |
-- Initialiser la BDD                                                                                        |
-- Faire le front :)                                                                                         |
-        __MOBILE FIRST__                                                                                    |
-                                                                                                            |
-    - Faire des variables pour la CG                                                                        |
-    - Link les links                                                                                        |
-    - Faire le header & le footer en premier                                                                |
-    - Ne pas mettre 3h pour des images et des catégories :-)                                                |
-                                                                                                            |
-____________________________________________________________________________________________________________|
+                                                                                                            
+- Initialiser la BDD                                                                                        
+- Faire le front :)                                                                                         
+        __MOBILE FIRST__                                                                                    
+                                                                                                            
+    - Faire des variables pour la CG                                                                        
+    - Link les links                                                                                        
+    - Faire le header & le footer en premier                                                                
+    - Ne pas mettre 3h pour des images et des catégories :-)                                                
+                                                                                                            
+____________________________________________________________________________________________________________
 
 ## LAST UPDATE 11/02/2021 | 09:50AM
